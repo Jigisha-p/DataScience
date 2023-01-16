@@ -8,7 +8,7 @@ Follow this sequence to learn Data Science Basics:
 6. DataAnalysis_Basic.ipynb
 7. DataVisualization_Pandas.ipynb
 8. DataVisualization_Matplotlib.ipynb
-9. Trees : All above steps in Trees_Reports.ipynb on trees.csv dataset
+9. Trees : All above and added preprocessing steps in Tree_DataAnalysis_Preprocessing.ipynb on trees.csv dataset
 
 ## Set up and Installation:
 ```bash
